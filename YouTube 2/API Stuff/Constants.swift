@@ -14,7 +14,7 @@ struct Constants {
     
     static var VIDEOCELL_ID = "myCell"
     
-    static var API_KEY = "AIzaSyCdHTpjBBWvCLSQqIerdSFSKUl9SuIWdOw"
+    static var API_KEY = "INSERT API KEY HERE"
     
     static var CHANNEL_ID = "UC6uKrU_WqJ1R2HMTY3LIx5Q"
     
